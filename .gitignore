@@ -1,0 +1,7 @@
+/target/
+/bin/
+/.idea/
+/.vscode/
+*.log
+/node_modules/
+/build/
