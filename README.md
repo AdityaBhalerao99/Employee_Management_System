@@ -91,7 +91,7 @@ spring.jpa.hibernate.ddl-auto=update
 4. Run the Spring Boot application
    http://localhost:8080
 
-**Frontend (React)**
+### Frontend (React)
 
 1. Navigate to frontend folder
 cd frontend
